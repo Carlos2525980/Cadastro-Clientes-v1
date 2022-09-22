@@ -1,0 +1,16 @@
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.config
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\bin\Debug\Cadastro Clientes.pdb
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.csproj.AssemblyReference.cache
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro_Clientes.Properties.Resources.resources
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.csproj.GenerateResource.cache
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.csproj.CoreCompileInputs.cache
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.pdb
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro_Clientes.FrmLogin.resources
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro_Clientes.FrmCadastro.resources
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.manifest
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\bin\Debug\Cadastro Clientes.application
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe.manifest
+C:\Users\xanda\source\repos\Cadastro Clientes\Cadastro Clientes\obj\Debug\Cadastro Clientes.application
